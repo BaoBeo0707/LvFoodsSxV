@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:diamond_block",
+    "B": "minecraft:gold_block",
+    "C": "lv-foods-sxv:xp_30000_food"
+  },
+  "result": {
+    "id": "lv-foods-sxv:level_50_food",
+    "count": 1
+  }
+}

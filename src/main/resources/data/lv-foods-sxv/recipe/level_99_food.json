@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:nether_star",
+    "B": "minecraft:beacon",
+    "C": "lv-foods-sxv:level_50_food"
+  },
+  "result": {
+    "id": "lv-foods-sxv:level_99_food",
+    "count": 1
+  }
+}

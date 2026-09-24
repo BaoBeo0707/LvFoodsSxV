@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:diamond",
+    "B": "lv-foods-sxv:xp_5000_food"
+  },
+  "result": {
+    "id": "lv-foods-sxv:xp_10000_food",
+    "count": 1
+  }
+}

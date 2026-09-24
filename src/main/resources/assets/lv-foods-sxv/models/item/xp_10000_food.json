@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "lv-foods-sxv:item/xp_10000_food" }
+}

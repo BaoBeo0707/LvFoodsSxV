@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:crying_obsidian",
+    "B": "lv-foods-sxv:xp_15000_food"
+  },
+  "result": {
+    "id": "lv-foods-sxv:xp_30000_food",
+    "count": 1
+  }
+}

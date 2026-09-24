@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:wheat",
+    "B": "minecraft:golden_apple"
+  },
+  "result": {
+    "id": "lv-foods-sxv:xp_1000_food",
+    "count": 1
+  }
+}
